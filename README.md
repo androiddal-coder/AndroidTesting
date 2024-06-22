@@ -1,2 +1,2 @@
 # AndroidTesting
-This repo is just for testing purpose
+This repo is just for testing purposes
